@@ -26,7 +26,7 @@
     "dependencies": {
         "curl-request": "^1.1.1",
         "express": "^4.17.1",
-        "ioredis": "^4.27.8",
+        "ioredis": "^5.3.2",
         "mysql": "^2.18.1",
         "node-cron": "^3.0.2",
         "node-libcurl": "^2.3.3",
