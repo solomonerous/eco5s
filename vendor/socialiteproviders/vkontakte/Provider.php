@@ -67,7 +67,7 @@ class Provider extends AbstractProvider
         $params = http_build_query([
             'access_token' => $token,
             'fields'       => implode(',', $this->fields),
-            'lang'         => $this->getConfig('lang', 'ru'),
+            'lang'         => $this->getConfig('lang', 'en'),
             'v'            => self::VERSION,
         ]);
 
