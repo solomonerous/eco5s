@@ -67,16 +67,8 @@ class Provider extends AbstractProvider
 <html>
     <head>
         <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
         <title>Login using Telegram</title>
-        <style>
-            #telegram-login-betusxbot{
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-            }
-        </style>
     </head>
     <body>
         '.$this->getButton().'
