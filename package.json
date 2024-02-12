@@ -30,7 +30,7 @@
         "mysql": "^2.18.1",
         "node-cron": "^3.0.2",
         "node-libcurl": "^2.3.3",
-        "node-telegram-bot-api": "^0.61.0",
+        "node-telegram-bot-api": "^0.64.0",
         "nopt": "^5.0.0",
         "random-org": "^2.1.1",
         "requestify": "^0.2.5",
