@@ -19,7 +19,7 @@
         "predis/predis": "^2.2",
         "socialiteproviders/google": "^4.1",
         "socialiteproviders/telegram": "^4.1",
-        "socialiteproviders/vkontakte": "^4.2",
+        "socialiteproviders/vkontakte": "^5.0",
         "socialiteproviders/yandex": "^4.1",
         "telegram-bot/api": "^2.3",
         "vkcom/vk-php-sdk": "^5.101",
